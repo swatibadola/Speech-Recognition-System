@@ -1,5 +1,5 @@
 # Speech Recognition System
-I created a speech recognition system that can accurately identify your voice and display the transcribed text on your screen.
+I developed a speech recognition system using pure javascript that can accurately identify your voice and display the transcribed text on your screen. 
 
 # Notes
 ## script js
